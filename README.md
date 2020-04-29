@@ -35,3 +35,6 @@ The publication of an NSA-approved encryption standard led to its quick internat
 DES is insecure due to the relatively short 56-bit key size. In January 1999, distributed.net and the Electronic Frontier Foundation collaborated to publicly break a DES key in 22 hours and 15 minutes (see chronology). There are also some analytical results which demonstrate theoretical weaknesses in the cipher, although they are infeasible in practice. The algorithm is believed to be practically secure in the form of Triple DES, although there are theoretical attacks. This cipher has been superseded by the Advanced Encryption Standard (AES). DES has been withdrawn as a standard by the National Institute of Standards and Technology.
 
 Some documents distinguish between the DES standard and its algorithm, referring to the algorithm as the DEA (Data Encryption Algorithm).
+
+
+source : wikipedia.com
